@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadunrandeera&label=Profile%20views&color=0e75b6&style=flat" alt="nadunrandeera" /> </p>
 
-- 🌱 I’m currently learning  **University of Vavuniya,Srilanka**
+- 🌱 I’m currently learning  **JAVA Programming**
 
-- 💬 Ask me about  **JAVA,C++,C,HTML,CSS**
+- 💬 Ask me about  **JAVA,PYTHON,C++,C,HTML,CSS**
 
 - 📫 How to reach me  **nadunrandeera@gmail.com**
 
